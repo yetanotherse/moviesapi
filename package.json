@@ -21,7 +21,7 @@
     },
     "apidoc": {
         "title": "Movies API Docs",
-        "url" : "https://api.github.com/api/"
+        "url" : "https://moviesdb-api.herokuapp.com/api/"
     },
     "scripts": {
         "start": "node ./src/index.js",

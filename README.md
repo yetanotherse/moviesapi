@@ -7,7 +7,7 @@ This project uses MongoDB and the database is hosted on a shared cluster on Atla
 * Movies
 
 ## API
-API is built using Node and Express and deployed on Heroku cloud. Link for the API is [Base API Endpoint](https://revbank-api.herokuapp.com/api/)
+API is built using Node and Express and deployed on Heroku cloud. Link for the API is [Base API Endpoint](https://moviesdb-api.herokuapp.com/api/)
 
 API documentation can be found in the section below.
 
